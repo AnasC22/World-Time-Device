@@ -9,6 +9,8 @@ The LCD Display in the map will show the current city selected and the local tim
 
 https://github.com/AnasC22/World-Time-Device/assets/109838146/825198b3-9fe2-49f2-af53-7c51c0e800f9
 
+---
+
 ![World Time Device](https://github.com/AnasC22/World-Time-Device/assets/109838146/9ab5ca68-b0b9-4549-b52a-e8d750864b28)
 
 ![API Request Successful](https://github.com/AnasC22/World-Time-Device/assets/109838146/597b85a7-431b-4439-9dff-f2035c444cc9)
